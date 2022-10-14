@@ -9,6 +9,6 @@ public class ProblemSet2_2 {
     	 System.out.println("     (__)\\         )\\");
     	 System.out.println("          ||-------||\\");
     	 System.out.println("          ||       || \\   ");
-        
+        // This is the ASCII art of a deer/moose
     } 
 }
